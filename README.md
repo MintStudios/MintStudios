@@ -9,9 +9,9 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-2. ❗️ Opened issue [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-3. ❗️ Opened issue [#32](https://github.com/kivy-garden/xcamera/issues/32) in [kivy-garden/xcamera](https://github.com/kivy-garden/xcamera)
-4. 🗣 Commented on [#81](https://github.com/LibreSprite/LibreSprite/issues/81) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
+2. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. ❗️ Opened issue [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+4. ❗️ Opened issue [#32](https://github.com/kivy-garden/xcamera/issues/32) in [kivy-garden/xcamera](https://github.com/kivy-garden/xcamera)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
