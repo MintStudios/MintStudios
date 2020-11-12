@@ -8,8 +8,8 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10](https://github.com/godotengine/godot-build-scripts/issues/10) in [godotengine/godot-build-scripts](https://github.com/godotengine/godot-build-scripts)
-2. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+1. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+2. 🗣 Commented on [#10](https://github.com/godotengine/godot-build-scripts/issues/10) in [godotengine/godot-build-scripts](https://github.com/godotengine/godot-build-scripts)
 3. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 4. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 <!--END_SECTION:activity-->
