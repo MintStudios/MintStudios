@@ -1,8 +1,10 @@
 ### Hello
 
-- I’m currently working on [Signum](https://github.com/MintStudios/Signum), and a few private repos...
+- I’m currently working on a few private repos...
 - I'm a maintainer of [LibreSprite](https://github.com/LibreSprite/LibreSprite)
-- I’m currently learning the [Godot Engine](https://godotengine.org/) and GDScript
+- I've learned [Godot Engine](https://godotengine.org/) and GDScript
+- I’m currently learning Swift and iOS development
+- I've put [Signum](https://github.com/MintStudios/Signum) on hold for now, more on that later
 - How to reach me: Email: minstudios.dev@gmail.com
 
 ### Latest GitHub Activity
