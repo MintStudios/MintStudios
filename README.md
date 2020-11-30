@@ -10,10 +10,10 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-2. 🗣 Commented on [#84](https://github.com/LibreSprite/LibreSprite/issues/84) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-3. 🗣 Commented on [#10](https://github.com/godotengine/godot-build-scripts/issues/10) in [godotengine/godot-build-scripts](https://github.com/godotengine/godot-build-scripts)
-4. 🗣 Commented on [#44751](https://github.com/tensorflow/tensorflow/issues/44751) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+1. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
+2. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
+3. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
+4. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
