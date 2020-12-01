@@ -10,7 +10,7 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
+1. 💪 Opened PR [#2](https://github.com/andresavic/AmongKey/pull/2) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
 2. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
 3. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
 4. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
