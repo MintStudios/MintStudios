@@ -10,10 +10,10 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#19](https://github.com/LibreSprite/libresprite.github.io/issues/19) in [LibreSprite/libresprite.github.io](https://github.com/LibreSprite/libresprite.github.io)
-2. 💪 Opened PR [#2](https://github.com/andresavic/AmongKey/pull/2) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
-3. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
-4. 🗣 Commented on [#1](https://github.com/andresavic/AmongKey/issues/1) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
+1. 🗣 Commented on [#22](https://github.com/MintStudios/Signum/issues/22) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
+2. 🗣 Commented on [#19](https://github.com/LibreSprite/libresprite.github.io/issues/19) in [LibreSprite/libresprite.github.io](https://github.com/LibreSprite/libresprite.github.io)
+3. 🗣 Commented on [#19](https://github.com/LibreSprite/libresprite.github.io/issues/19) in [LibreSprite/libresprite.github.io](https://github.com/LibreSprite/libresprite.github.io)
+4. 💪 Opened PR [#2](https://github.com/andresavic/AmongKey/pull/2) in [andresavic/AmongKey](https://github.com/andresavic/AmongKey)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
