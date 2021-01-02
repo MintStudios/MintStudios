@@ -10,9 +10,9 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#86](https://github.com/LibreSprite/LibreSprite/issues/86) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-2. 🗣 Commented on [#39](https://github.com/apple/tensorflow_macos/issues/39) in [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos)
-3. 🗣 Commented on [#87](https://github.com/apple/tensorflow_macos/issues/87) in [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos)
+1. 🎉 Merged PR [#23](https://github.com/MintStudios/Signum/pull/23) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
+2. 🗣 Commented on [#86](https://github.com/LibreSprite/LibreSprite/issues/86) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
+3. 🗣 Commented on [#39](https://github.com/apple/tensorflow_macos/issues/39) in [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos)
 4. 🗣 Commented on [#87](https://github.com/apple/tensorflow_macos/issues/87) in [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos)
 <!--END_SECTION:activity-->
 
