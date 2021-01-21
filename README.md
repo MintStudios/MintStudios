@@ -10,10 +10,10 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#88](https://github.com/LibreSprite/LibreSprite/issues/88) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-2. 🗣 Commented on [#86](https://github.com/LibreSprite/LibreSprite/issues/86) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-3. 🗣 Commented on [#88](https://github.com/LibreSprite/LibreSprite/issues/88) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-4. ❗️ Closed issue [#22](https://github.com/MintStudios/Signum/issues/22) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
+1. 🗣 Commented on [#89](https://github.com/LibreSprite/LibreSprite/issues/89) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
+2. 🗣 Commented on [#88](https://github.com/LibreSprite/LibreSprite/issues/88) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
+3. 🗣 Commented on [#86](https://github.com/LibreSprite/LibreSprite/issues/86) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
+4. 🗣 Commented on [#88](https://github.com/LibreSprite/LibreSprite/issues/88) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
