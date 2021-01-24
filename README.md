@@ -10,10 +10,10 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#830](https://github.com/olivierkes/manuskript/issues/830) in [olivierkes/manuskript](https://github.com/olivierkes/manuskript)
-2. 🗣 Commented on [#26](https://github.com/madmagic007/Oculus-Quest-Presence/issues/26) in [madmagic007/Oculus-Quest-Presence](https://github.com/madmagic007/Oculus-Quest-Presence)
-3. 🗣 Commented on [#26](https://github.com/madmagic007/Oculus-Quest-Presence/issues/26) in [madmagic007/Oculus-Quest-Presence](https://github.com/madmagic007/Oculus-Quest-Presence)
-4. ❗️ Opened issue [#271](https://github.com/touilleMan/godot-python/issues/271) in [touilleMan/godot-python](https://github.com/touilleMan/godot-python)
+1. ❗️ Closed issue [#24](https://github.com/MintStudios/Signum/issues/24) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
+2. 🗣 Commented on [#24](https://github.com/MintStudios/Signum/issues/24) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
+3. 🎉 Merged PR [#25](https://github.com/MintStudios/Signum/pull/25) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
+4. 🗣 Commented on [#25](https://github.com/MintStudios/Signum/issues/25) in [MintStudios/Signum](https://github.com/MintStudios/Signum)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
