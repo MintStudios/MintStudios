@@ -10,10 +10,10 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#830](https://github.com/olivierkes/manuskript/issues/830) in [olivierkes/manuskript](https://github.com/olivierkes/manuskript)
-2. 🎉 Merged PR [#91](https://github.com/LibreSprite/LibreSprite/pull/91) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-3. 🗣 Commented on [#92](https://github.com/LibreSprite/LibreSprite/issues/92) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
-4. 🎉 Merged PR [#3](https://github.com/MintStudios/bibisco/pull/3) in [MintStudios/bibisco](https://github.com/MintStudios/bibisco)
+1. ❗️ Opened issue [#2340](https://github.com/godotengine/godot-proposals/issues/2340) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
+2. 🗣 Commented on [#830](https://github.com/olivierkes/manuskript/issues/830) in [olivierkes/manuskript](https://github.com/olivierkes/manuskript)
+3. 🎉 Merged PR [#91](https://github.com/LibreSprite/LibreSprite/pull/91) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
+4. 🗣 Commented on [#92](https://github.com/LibreSprite/LibreSprite/issues/92) in [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
