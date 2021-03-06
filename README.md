@@ -10,10 +10,10 @@
 ### Latest GitHub Activity
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#57](https://github.com/octachrome/treason/issues/57) in [octachrome/treason](https://github.com/octachrome/treason)
-2. ❗️ Opened issue [#51](https://github.com/aBARICHELLO/godot-ci/issues/51) in [aBARICHELLO/godot-ci](https://github.com/aBARICHELLO/godot-ci)
-3. ❗️ Opened issue [#2340](https://github.com/godotengine/godot-proposals/issues/2340) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
-4. 🗣 Commented on [#830](https://github.com/olivierkes/manuskript/issues/830) in [olivierkes/manuskript](https://github.com/olivierkes/manuskript)
+1. 🗣 Commented on [#57](https://github.com/octachrome/treason/issues/57) in [octachrome/treason](https://github.com/octachrome/treason)
+2. ❗️ Opened issue [#57](https://github.com/octachrome/treason/issues/57) in [octachrome/treason](https://github.com/octachrome/treason)
+3. ❗️ Opened issue [#51](https://github.com/aBARICHELLO/godot-ci/issues/51) in [aBARICHELLO/godot-ci](https://github.com/aBARICHELLO/godot-ci)
+4. ❗️ Opened issue [#2340](https://github.com/godotengine/godot-proposals/issues/2340) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
 <!--END_SECTION:activity-->
 
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
