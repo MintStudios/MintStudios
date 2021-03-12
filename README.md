@@ -1,9 +1,10 @@
-### Hello
+### Hello!
 
-- I’m currently working on a few private repos...
+- I’m currently working on a few private repos... (A whole bunch, actually)
+- I'm learning Unity and C# to create some rockin' VR games!
 - I'm a maintainer of [LibreSprite](https://github.com/LibreSprite/LibreSprite)
-- I've learned [Godot Engine](https://godotengine.org/) and GDScript
-- I’m currently learning Swift and iOS development
+- I've learnt [Godot Engine](https://godotengine.org/) and GDScript
+- I’ve learnt learning Swift and iOS development
 - I've put [Signum](https://github.com/MintStudios/Signum) on hold for now, more on that later
 - How to reach me: Email: minstudios.dev@gmail.com
 
