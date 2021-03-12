@@ -1,7 +1,7 @@
 ### Hello!
 
 - I’m currently working on a few private repos... (A whole bunch, actually)
-- I'm learning Unity and C# to create some rockin' VR games!
+- I'm learning [Unity](https://unity.com) and [C#](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#2019) to create some rockin' VR games!
 - I'm a maintainer of [LibreSprite](https://github.com/LibreSprite/LibreSprite)
 - I've learnt [Godot Engine](https://godotengine.org/) and GDScript
 - I’ve learnt learning Swift and iOS development
