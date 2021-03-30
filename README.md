@@ -21,5 +21,3 @@
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintStudios&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<iframe src="https://discord.com/widget?id=820328532554809344&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
