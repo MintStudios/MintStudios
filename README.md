@@ -2,6 +2,7 @@
 
 - I’m currently working on a few private repos... (A whole bunch, actually)
 - I'm learning [Unity](https://unity.com) and [C#](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#2019) to create some rockin' VR games!
+- On the topic of VR games, I'm making [Bowlr](https://discord.gg/xb9Hp77Nv6), a bowling game for Oculus Devices! Discord link below...
 - I'm a maintainer of [LibreSprite](https://github.com/LibreSprite/LibreSprite)
 - I've learnt [Godot Engine](https://godotengine.org/) and GDScript
 - I’ve learnt learning Swift and iOS development
@@ -20,3 +21,5 @@
 <img align="left" alt="Midas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MintStudios&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintStudios&hide_border=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<iframe src="https://discord.com/widget?id=820328532554809344&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
